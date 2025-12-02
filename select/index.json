@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Sweet Appetite",
+  "base_artist": "Gawr Gura、Hakos Baelz",
+  "createdAt": "2025-12-02T01:39:05.157162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura feat. Hakos Baelz",
+      "has_synced": true,
+      "path": "select/01_Sweet_Appetite_Gawr_Gura_feat._Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura × Hakos Baelz",
+      "has_synced": true,
+      "path": "select/02_Sweet_Appetite_Gawr_Gura_×_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura/Hakos Baelz",
+      "has_synced": true,
+      "path": "select/03_Sweet_Appetite_Gawr_Gura_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura & Hakos Baelz",
+      "has_synced": true,
+      "path": "select/04_Sweet_Appetite_Gawr_Gura_&_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura",
+      "has_synced": true,
+      "path": "select/05_Sweet_Appetite_Gawr_Gura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura × Hakos Baelz",
+      "has_synced": true,
+      "path": "select/06_Sweet_Appetite_Gawr_Gura_×_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura x Hakos Baelz",
+      "has_synced": false,
+      "path": "select/07_Sweet_Appetite_Gawr_Gura_x_Hakos_Baelz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Hakos Baelz",
+      "has_synced": true,
+      "path": "select/08_Sweet_Appetite_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura x Hakos Baelz",
+      "has_synced": true,
+      "path": "select/09_Sweet_Appetite_Gawr_Gura_x_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "02. Sweet Appetite; Gawr Gura x Hakos Baelz",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/10_02._Sweet_Appetite;_Gawr_Gura_x_Hakos_Baelz_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura × Hakos Baelz",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Appetite_Gawr_Gura_×_Hakos_Baelz.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sweet Appetite",
+      "artist": "Gawr Gura × Hakos Baelz",
+      "has_synced": false,
+      "path": "select/pl_02_Sweet_Appetite_Gawr_Gura_×_Hakos_Baelz.txt"
+    }
+  ]
+}
