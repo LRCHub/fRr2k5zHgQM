@@ -1,0 +1,95 @@
+# Gawr Gura、Hakos Baelz – Sweet Appetite
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.56] Uh ra-ta-ta sweet appetite
+[00:04.46] Uh ra-ta-ta sweet appetite
+[00:17.46] 
+[00:07.13] Fearless, all my makeup is done
+[00:09.95] Don't worry it's my queendom
+[00:12.65] Look at me, the face I wanted to see
+[00:14.93] A makeover indeed
+[00:16.38] Am I your type? Do you like it?
+[00:17.98] Ah, darling
+[00:23.48] 
+[00:18.91] Uh ra-ta-ta sweet appetite
+[00:21.85] Uh ra-ta-ta sweet appetite
+[00:34.85] 
+[00:24.70] Come closer, now it's complete
+[00:27.67] Do you hear my heartbeat?
+[00:30.37] So far so good
+[00:31.37] You're setting the mood right
+[00:32.98] But this is only going to drive me crazy
+[00:52.98] 
+[00:35.63] Are you embarrassed right now?
+[00:37.20] Or blushing somehow?
+[00:38.73] But I am guessing it is the same for you and me
+[00:41.71] Look here, don't blink
+[00:43.02] And tell me what you think
+[00:44.63] Well we both know the answer now
+[00:46.14] Wouldn't you agree?
+[00:55.64] 
+[00:47.74] Fill my appetite
+[00:49.81] What should I do?
+[00:50.87] I hope you don't find out
+[00:52.29] The things I'm shy about
+[00:53.57] Fill my appetite
+[00:55.69] What should I do?
+[00:56.77] My head is still spinning
+[00:58.05] The verge of exploding
+[00:59.98] I'm only asking for another chance
+[01:16.98] 
+[01:08.54] Plan B, I'll get closer this time
+[01:11.33] Next shot better be the bull's eye
+[01:14.03] New appeal, a sweet and spicy reveal
+[01:16.48] My looks talk the talk
+[01:18.08] But now my heart is still naked
+[01:19.35] Ah, help me
+[01:24.85] 
+[01:20.66] Uh ra-ta-ta sweet appetite
+[01:23.35] Uh ra-ta-ta sweet appetite
+[01:36.35] 
+[01:26.25] I've got the tactics I need
+[01:29.10] "Patience" is just not for me
+[01:31.76] No, wait, stop now
+[01:32.82] God what was I thinking?
+[01:34.38] 'Cause this is only driving me to full on panic!
+[01:58.38] 
+[01:50.03] I'm so embarrassed right now
+[01:51.88] And blushing somehow
+[01:53.41] But nothing that I seem to do ever bothers you
+[02:16.41] 
+[01:56.34] I look in your eyes
+[01:57.63] Just want you to know that
+[01:59.21] I really, really, really like you
+[02:15.71] 
+[02:01.96] Are you embarrassed right now?
+[02:03.47] Or blushing somehow?
+[02:05.05] But I am guessing it is the same for you and me
+[02:08.21] Look here, don't blink
+[02:09.57] And tell me what you think
+[02:10.83] Well we both know the answer now
+[02:12.49] Wouldn't you agree?
+[02:21.99] 
+[02:14.03] Fill my appetite
+[02:15.92] What should I do?
+[02:17.27] I hope you don't find out
+[02:18.59] The things I'm shy about
+[02:19.80] Fill my appetite
+[02:21.91] What should I do?
+[02:23.02] My head is still spinning
+[02:24.42] The verge of exploding
+[02:35.42] 
+[02:25.70] Fill my appetite
+[02:27.90] What should I do?
+[02:28.96] I hope you don't find out
+[02:30.26] The things I'm shy about
+[02:31.64] Fill my appetite
+[02:33.62] What should I do?
+[02:34.78] My head is still spinning
+[02:36.12] The verge of exploding
+[02:47.12] 
+[02:38.02] I'm only asking for another chance
+[02:40.94] Oh pretty, please I promise one last chance
+```
